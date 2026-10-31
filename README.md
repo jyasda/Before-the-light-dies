@@ -3,4 +3,4 @@ A tense first-person survival horror game where you manage your flashlight batte
 
 Version 1: In this version, I completed the main portion of the game, yet it still lacks a ending and the player cannot currently beat the game, however; all the visuals have been polished with minor tweaks in the future. This build of the game also features a working "monster", so the player can die, but there is still work to be done. The flashlight feature is also made but future tweaks may come. Major updates for the next build: A ending, monster tweaks, and many bug fixes.
 
-Version 2: For this version, I added what the game lacked, a ending, credits, and a Main Menu. Now the game is fully complete and playable, yet future bug and visual tweaks may come. Enjoy!
+Version 2: For this version, I added what the game lacked, a ending, credits, and a Main Menu. Now the game is fully complete and playable, yet future bug and visual tweaks may come. 
